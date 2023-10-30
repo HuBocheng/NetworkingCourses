@@ -1,0 +1,6 @@
+[submodule "Computer_Network"]
+	path = Computer_Network
+	url = git@github.com:HuBocheng/Computer_Network.git
+[submodule "Network_technology"]
+	path = Network_technology
+	url = git@github.com:HuBocheng/Network_technology.git
